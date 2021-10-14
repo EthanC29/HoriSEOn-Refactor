@@ -1,12 +1,8 @@
-/* base format */
+/* base formating */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
-
-body {
-    background-color: #d9dcd6;
 }
 
 a {
@@ -16,6 +12,11 @@ a {
 
 p {
     font-size: 16px;
+}
+
+/* body */
+body {
+    background-color: #d9dcd6;
 }
 
 /* header */
@@ -98,7 +99,7 @@ main h2 {
     margin-left: 25px;
 }
 
-/* right side panel */
+/* side panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
