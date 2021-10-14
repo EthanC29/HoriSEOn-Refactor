@@ -7,13 +7,13 @@ This is a webpage created by *Horiseon Social Solution Services, Inc.* refactore
 
 ## Screenshots
 
-Horiseon header, navigation and banner/hero
+#### Horiseon header, navigation and banner/hero
 ![Horiseon header, navigation and banner/hero](/assets/images/horiseon-1.png)
 
-Horiseon main page
+#### Horiseon main page
 ![Horiseon main page](/assets/images/horiseon-2.png)
 
-Horiseon code sneak peek
+#### Horiseon code sneak peek
 ![Horiseon code sneak peek](/assets/images/horiseon-3.png)
 
 
